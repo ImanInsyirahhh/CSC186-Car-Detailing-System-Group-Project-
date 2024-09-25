@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AddOn
+comment1.params=co\ so\ po
+comment1.target=AddOn(char,\ java.lang.String,\ double)
+comment2.params=co\ so\ po
+comment2.target=void\ setAddOn(char,\ java.lang.String,\ double)
+comment3.params=
+comment3.target=char\ getCodeOn()
+comment4.params=
+comment4.target=java.lang.String\ getServiceOn()
+comment5.params=
+comment5.target=double\ priceOn()
+comment6.params=
+comment6.target=void\ displayAddOn()
+numComments=7
